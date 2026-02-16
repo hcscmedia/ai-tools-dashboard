@@ -1,7 +1,7 @@
 {
   "name": "ai-tools-dashboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "A curated dashboard of the best AI tools across multiple categories",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/hcscmedia/ai-tools-dashboard.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["ai", "tools", "dashboard", "nextjs", "typescript", "tailwind", "ai-tools", "machine-learning"],
+  "author": "hcscmedia",
   "license": "ISC",
   "type": "module",
   "bugs": {
